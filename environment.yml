@@ -1,0 +1,9 @@
+name: kaggle310
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+  - https://repo.anaconda.com/pkgs/msys2
+dependencies:
+  - python=3.10.12
+  - ipykernel
+prefix: C:\Users\flame\anaconda3\envs\kaggle310
