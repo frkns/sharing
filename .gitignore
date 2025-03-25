@@ -1,0 +1,9 @@
+runs/
+wandb/
+checkpoints/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.pyo
+*.pyd
+
